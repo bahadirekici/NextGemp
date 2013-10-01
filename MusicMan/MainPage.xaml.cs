@@ -39,6 +39,7 @@ namespace MusicMan
            MediaControl.PausePressed += MediaControl_PausePressed;
            MediaControl.PlayPauseTogglePressed += MediaControl_PlayPauseTogglePressed;
            MediaControl.StopPressed += MediaControl_StopPressed;
+
         }
         void MediaControl_StopPressed(object sender, object e)
         {

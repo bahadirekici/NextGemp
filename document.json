@@ -1,0 +1,6 @@
+{  
+  "bitcoin": {
+    "request": "https://blockchain.info/q/addressbalance/{0}}",
+    "rate": "0.00000001"
+  }
+}

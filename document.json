@@ -1,6 +1,12 @@
-{  
-  "bitcoin": {
-    "request": "https://blockchain.info/q/addressbalance/{0}}",
-    "rate": "0.00000001"
+{
+  "currency": {
+    "bitcoin": {
+      "request": "https://blockchain.info/q/addressbalance/{0}}",
+      "rate": "0.00000001"
+    },
+    "litecoin": {
+      "request": "https://blockchain.info/q/addressbalance/{0}}",
+      "rate": "0.00000001"
+    }
   }
 }

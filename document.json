@@ -13,6 +13,14 @@
        "title":"Litecoin",
       "request": "https://blockchain.info/q/addressbalance/{0}}",
       "rate": "1"
+    },
+    {
+      "id":"1",
+      "type":"exchange",
+       "title":"Paribu",
+     "params":[
+       {"ticker":"https://www.paribu.com/ticker"}
+       ]
     }
   
 ]

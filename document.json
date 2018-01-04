@@ -2,12 +2,14 @@
   
    {
       "id":"BTC",
+     "type":"currency",
       "title":"Bitcoin",
       "request": "https://blockchain.info/q/addressbalance/{0}}",
       "rate": "0.00000001"
     },
     {
       "id":"LTC",
+      "type":"currency",
        "title":"Litecoin",
       "request": "https://blockchain.info/q/addressbalance/{0}}",
       "rate": "1"

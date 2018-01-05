@@ -1,26 +1,19 @@
 [
   
    {
-      "id":"BTC",
+      "symbol":"BTC",
      "type":"currency",
-      "title":"Bitcoin",
+      "name":"Bitcoin",
       "request": "https://blockchain.info/q/addressbalance/{0}}",
       "rate": "0.00000001"
     },
     {
-      "id":"LTC",
+      "symbol":"LTC",
       "type":"currency",
-       "title":"Litecoin",
+       "name":"Litecoin",
       "request": "https://blockchain.info/q/addressbalance/{0}}",
       "rate": "1"
-    },
-    {
-      "id":"1",
-      "type":"exchange",
-       "title":"Paribu",
-     "params":[
-       {"ticker":"https://www.paribu.com/ticker"}
-       ]
     }
+    
   
 ]

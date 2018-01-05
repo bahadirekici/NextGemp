@@ -13,6 +13,48 @@
        "name":"Litecoin",
       "request": "https://blockchain.info/q/addressbalance/{0}}",
       "rate": "1"
+    },
+  {
+      "symbol":"ZEC",
+      "type":"currency",
+       "name":"Zcash",
+      "request": "https://blockchain.info/q/addressbalance/{0}}",
+      "rate": "1"
+    },
+  {
+      "symbol":"eth",
+      "type":"currency",
+       "name":"Ethereum",
+      "request": "https://blockchain.info/q/addressbalance/{0}}",
+      "rate": "1"
+    },
+  {
+      "symbol":"IOTA",
+      "type":"currency",
+       "name":"IOTA",
+      "request": "https://blockchain.info/q/addressbalance/{0}}",
+      "rate": "1"
+    },
+  {
+      "symbol":"XLM",
+      "type":"currency",
+       "name":"Stellar Lumen",
+      "request": "https://blockchain.info/q/addressbalance/{0}}",
+      "rate": "1"
+    },
+  {
+      "symbol":"BCASH",
+      "type":"currency",
+       "name":"Bitcoin Cash",
+      "request": "https://blockchain.info/q/addressbalance/{0}}",
+      "rate": "1"
+    },
+  {
+      "symbol":"WAVES",
+      "type":"currency",
+       "name":"WAVES",
+      "request": "https://blockchain.info/q/addressbalance/{0}}",
+      "rate": "1"
     }
     
   

@@ -43,7 +43,7 @@
       "rate": "1"
     },
   {
-      "symbol":"BCASH",
+      "symbol":"BCH",
       "type":"currency",
        "name":"Bitcoin Cash",
       "request": "https://blockchain.info/q/addressbalance/{0}}",

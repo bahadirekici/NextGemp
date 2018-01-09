@@ -3,12 +3,14 @@
    {
       "symbol":"BTC",
      "type":"currency",
+     "apikey":"",
       "name":"Bitcoin",
       "request": "https://blockchain.info/q/addressbalance/{0}}",
       "rate": "0.00000001"
     },
     {
       "symbol":"LTC",
+      "apikey":"",
       "type":"currency",
        "name":"Litecoin",
       "request": "https://blockchain.info/q/addressbalance/{0}}",
@@ -17,6 +19,7 @@
   {
       "symbol":"ZEC",
       "type":"currency",
+    "apikey":"",
        "name":"Zcash",
       "request": "https://blockchain.info/q/addressbalance/{0}}",
       "rate": "1"
@@ -24,6 +27,7 @@
   {
       "symbol":"eth",
       "type":"currency",
+    "apikey":"PSKCPYZY2HBAJ8IITGEJ94PMJJPJPG5YAT",
        "name":"Ethereum",
       "request": "https://blockchain.info/q/addressbalance/{0}}",
       "rate": "1"
@@ -31,12 +35,14 @@
   {
       "symbol":"IOTA",
       "type":"currency",
+    "apikey":"",
        "name":"IOTA",
       "request": "https://blockchain.info/q/addressbalance/{0}}",
       "rate": "1"
     },
   {
       "symbol":"XLM",
+    "apikey":"",
       "type":"currency",
        "name":"Stellar Lumen",
       "request": "https://blockchain.info/q/addressbalance/{0}}",

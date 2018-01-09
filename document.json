@@ -33,7 +33,7 @@
       "rate": "1"
     },
   {
-      "symbol":"IOTA",
+      "symbol":"iota",
       "type":"currency",
     "apikey":"",
        "name":"IOTA",

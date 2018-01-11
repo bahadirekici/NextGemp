@@ -33,22 +33,6 @@
       "rate": "1"
     },
   {
-      "symbol":"iota",
-      "type":"currency",
-    "apikey":"",
-       "name":"IOTA",
-      "request": "https://blockchain.info/q/addressbalance/{0}}",
-      "rate": "1"
-    },
-  {
-      "symbol":"XLM",
-    "apikey":"",
-      "type":"currency",
-       "name":"Stellar Lumen",
-      "request": "https://blockchain.info/q/addressbalance/{0}}",
-      "rate": "1"
-    },
-  {
       "symbol":"BCH",
       "type":"currency",
      "apikey":"710cbdd59a72e0ca9ed48af36bc3eaa0e8a80737",

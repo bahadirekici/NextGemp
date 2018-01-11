@@ -68,5 +68,12 @@
        "name":"Siacoin"
       
     }
+   ,
+  {
+      "symbol":"STRAT",
+      "type":"currency",
+       "name":"Stratis"
+      
+    }
   
 ]

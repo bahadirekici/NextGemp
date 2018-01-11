@@ -103,5 +103,12 @@
        "name":"GameCredits"
       
     }
+  ,
+  {
+      "symbol":"EMC",
+      "type":"currency",
+       "name":"Emercoin"
+      
+    }
   
 ]

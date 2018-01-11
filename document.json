@@ -96,5 +96,12 @@
        "name":"ZCoin"
       
     }
+  ,
+  {
+      "symbol":"GAME",
+      "type":"currency",
+       "name":"GameCredits"
+      
+    }
   
 ]

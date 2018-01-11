@@ -61,5 +61,12 @@
        "name":"DASH"
       
     }
+    ,
+  {
+      "symbol":"SC",
+      "type":"currency",
+       "name":"Siacoin"
+      
+    }
   
 ]

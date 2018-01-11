@@ -51,6 +51,7 @@
   {
       "symbol":"BCH",
       "type":"currency",
+     "apikey":"710cbdd59a72e0ca9ed48af36bc3eaa0e8a80737",
        "name":"Bitcoin Cash",
       "request": "https://blockchain.info/q/addressbalance/{0}}",
       "rate": "1"

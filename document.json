@@ -82,5 +82,12 @@
        "name":"Digibyte"
       
     }
+  ,
+  {
+      "symbol":"SYS",
+      "type":"currency",
+       "name":"Syscoin"
+      
+    }
   
 ]

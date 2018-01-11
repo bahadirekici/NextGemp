@@ -89,5 +89,12 @@
        "name":"Syscoin"
       
     }
+  ,
+  {
+      "symbol":"XZC",
+      "type":"currency",
+       "name":"ZCoin"
+      
+    }
   
 ]

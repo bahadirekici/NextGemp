@@ -75,5 +75,12 @@
        "name":"Stratis"
       
     }
+  ,
+  {
+      "symbol":"DGB",
+      "type":"currency",
+       "name":"Digibyte"
+      
+    }
   
 ]

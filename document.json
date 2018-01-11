@@ -69,5 +69,12 @@
        "name":"Vertcoin"
       
     }
+    ,
+  {
+      "symbol":"DASH",
+      "type":"currency",
+       "name":"DASH"
+      
+    }
   
 ]

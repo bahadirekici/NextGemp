@@ -41,14 +41,6 @@
       "rate": "1"
     },
   {
-      "symbol":"WAVES",
-      "type":"currency",
-       "name":"WAVES",
-      "request": "https://blockchain.info/q/addressbalance/{0}}",
-      "rate": "1"
-    }
-    ,
-  {
       "symbol":"VTC",
       "type":"currency",
        "name":"Vertcoin"
